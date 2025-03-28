@@ -46,9 +46,5 @@ Passionate about digital defense, I'm a cybersecurity researcher based in France
 
 📫 Connect with me:
 - Email: [pourbalade@gmail.com)
-- Twitter: [@rx7r__z](https://twitter.com/da_crypto_freak)
-- YouTube: [](https://www.youtube.com)
-- 
-- 
-- 
+- Twitter: [@rx7r__z](https://twitter.com/rx7r_z)
 - Phone: +33756494909
