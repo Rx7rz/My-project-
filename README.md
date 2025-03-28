@@ -1,6 +1,6 @@
 ### About Me
 
-Driven by a passion for digital defense, I'm a Cyber Security Researcher based in Tunisia 🇹🇳 , specializing in Exploit Development, and Networking. Open to collaborations on cutting-edge research. Let's discuss Cyber Security strategies, System Administration, and building robust MERN Stack applications. Stay updated with my insights on InfoSec OpenMic! 🔐🚀
+Passionate about digital defense, I'm a cybersecurity researcher based in France 🇫🇷, specializing in exploit development and networks. Open to collaborations on cutting-edge research. Let's discuss cybersecurity strategies, system administration and building robust MERN stack applications. Stay up to date with my thoughts on InfoSec OpenMic! 🔐🚀
 
 ### Skills, Technologies, and Tools
 
@@ -45,10 +45,10 @@ Driven by a passion for digital defense, I'm a Cyber Security Researcher based i
 
 
 📫 Connect with me:
-- Email: [4stalkers@protonmail.com](mailto:4stalkers@protonmail.com)
-- Twitter: [@da_crypto_freak](https://twitter.com/da_crypto_freak)
-- YouTube: [Tunisian-UL](https://www.youtube.com/@Tunisian-UL)
-- Buy Me a Coffee: [Buy Me a Coffee](https://buymeacoffee.com/maxamin)
-- Ba9chich : [ba9chich.com/UL-Tunisia](https://ba9chich.com/UL-Tunisia)
-- FB: [FB.com/TNCSOM](https://www.facebook.com/TNCSOM/)
-- Phone: +21690617639
+- Email: [pourbalade@gmail.com)
+- Twitter: [@rx7r_z](https://twitter.com/da_crypto_freak)
+- YouTube: [](https://www.youtube.com/@Tunisian-UL)
+- Buy Me a Coffee: [Buy Me a Coffee]()
+- Ba9chich : [](https://ba9chich.com/UL-Tunisia)
+- FB: []()
+- Phone: +33756494909
