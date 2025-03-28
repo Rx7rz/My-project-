@@ -46,9 +46,9 @@ Passionate about digital defense, I'm a cybersecurity researcher based in France
 
 📫 Connect with me:
 - Email: [pourbalade@gmail.com)
-- Twitter: [@rx7r_z](https://twitter.com/da_crypto_freak)
-- YouTube: [](https://www.youtube.com/@Tunisian-UL)
-- Buy Me a Coffee: [Buy Me a Coffee]()
-- Ba9chich : [](https://ba9chich.com/UL-Tunisia)
-- FB: []()
+- Twitter: [@rx7r__z](https://twitter.com/da_crypto_freak)
+- YouTube: [](https://www.youtube.com)
+- 
+- 
+- 
 - Phone: +33756494909
